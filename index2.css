@@ -1,0 +1,38 @@
+.retrial{
+    height: fit-content;
+    width:2%;
+    background-color:rgb(94, 4, 4);
+    border-radius: 0;
+    color:white;
+    border:black;
+    padding: 14px;
+}
+.gggh{
+    height: fit-content;
+    width:14px;
+    background-color: darkred;
+    border-radius:0;
+    color: white;
+    border: black;
+    padding:14px;
+}
+.ttt{
+    height:  14px;
+    width:fit-content;
+    background-color: rgb(41, 212, 41);
+    color: white;
+    border-radius: 3.6px;
+    border: black ;
+    padding: 4px;
+}
+.a1,.a2{
+    background-color: rgb(28, 233, 233) ;
+
+}
+.a,.b,.c{
+background-color: rgb(212, 126, 212);
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.s{
+    background-color: orangered;
+}

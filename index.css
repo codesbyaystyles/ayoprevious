@@ -1,0 +1,50 @@
+h1{
+    color: blue;
+    background-color: orangered;
+    font-size: 77px;
+    font-family: cursive;
+    text-align: center;
+}
+a{
+    color: green;
+}
+body{
+    background-color: black;
+}
+.box{
+    width:fit-content;
+    height:fit-content;
+    padding: 14px;
+   background-color:darkblue;
+   color: white;
+   border: 4px dotted red;
+   border-radius: 20px;
+}
+.box2{
+    width: 100px;
+    height:100px;
+    background-color:red;
+    border:3px dotted blue;
+    border-radius:15px;
+}
+.box3{
+    width:200px;
+    height: 200px;
+    background-color: brown;
+    border:20px;
+    border-radius:40px;
+    text-align: center;
+}
+
+.link1{
+    color:orange;
+}
+.link2{
+color: aqua;
+}
+#linkid{
+    color: bisque;
+}  
+.image{
+    width: 100px;
+}
